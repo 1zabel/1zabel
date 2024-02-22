@@ -7,7 +7,7 @@
 - ⚡ Curiosidade: "O código é como um poema; deve ser breve, claro e cheio de significado."
 
 COMO ENTRA EM CONTATO COMIGO:
-- LinkedIn: [Izabel Alves](linkedin.com/in/izabel-alves-960a451a7)
+- LinkedIn: [Izabel Alves](https://www.linkedin.com/in/izabel-alves-960a451a7/)
 
 
 
