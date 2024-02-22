@@ -6,4 +6,6 @@
 - 😄 Pronomes: Ela/Dela
 - ⚡ Curiosidade: "O código é como um poema; deve ser breve, claro e cheio de significado." 
 
+![GitHub Profile Card](https://github-readme-stats.vercel.app/api?username=1zabel&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1zabel)](https://git.io/streak-stats)
