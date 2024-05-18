@@ -1,4 +1,4 @@
-👋 Olá, sou @1zabel, tenho 25 anos, sou uma entusiasta da tecnologia em busca de novos desafios.
+👋 Olá, sou @1zabel!
 
 - 👀 Estou interessado em um estágio, uma oportunidade na área da tecnologia.
 - 🌱 Atualmente estou aprendendo, JavaScript, Python, React, Banco de Dados, HTML, CSS, NodeJS, Angular...
